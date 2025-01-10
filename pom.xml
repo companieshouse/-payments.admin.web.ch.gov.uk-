@@ -23,7 +23,7 @@
 		<private-api-sdk-java.version>4.0.191</private-api-sdk-java.version>
 		<sdk-manager-java.version>3.0.9</sdk-manager-java.version>
         <spring-boot-maven-plugin.version>3.3.2</spring-boot-maven-plugin.version>
-		<spring-security-core.version>6.3.3</spring-security-core.version>
+		<spring-security-core.version>6.3.5</spring-security-core.version>
 		<spring-security-web.version>6.3.3</spring-security-web.version>
 		<spring-security-config.version>6.3.3</spring-security-config.version>
 		<spring-security-test.version>6.3.3</spring-security-test.version>
